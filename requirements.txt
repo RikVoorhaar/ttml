@@ -1,6 +1,5 @@
 autoray
 numpy
-opt_einsum
 pandas
 scipy
 sklearn
