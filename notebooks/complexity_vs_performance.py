@@ -307,6 +307,7 @@ df_ttml["rank"] = df_ttml.estimator_kwargs.map(rank_fun)
 df_ttml["num_thresh"] = df_ttml.estimator_kwargs.map(thresh_fun)
 
 ranks = df_ttml["rank"].unique()
+num_thresh_vals = df_ttml["num_thresh"].unique()
 df_ttml = df_ttml.sort_values(by=["rank","num_thresh"])
 for num_thresh in num_thresh_vals:
     df_num_thresh = df_ttml[df_ttml["num_thresh"] == num_thresh].copy()
@@ -346,3 +347,4 @@ plt.savefig(
     format="pdf",
     bbox_inches="tight",
 )
+# %%
