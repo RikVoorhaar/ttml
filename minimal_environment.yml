@@ -1,0 +1,16 @@
+name: tminimal
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - opt-einsum
+  - pandas
+  - pip
+  - python=3.8
+  - scikit-learn
+  - scipy
+  - tqdm
+  - pip:
+    - git+https://github.com/jcmgray/autoray.git
+    - xgboost
+    - xlrd

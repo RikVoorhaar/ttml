@@ -1,0 +1,45 @@
+name: tensors
+channels:
+  - conda-forge
+dependencies:
+  - cython
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - mypy
+  - numpy>=1.21
+  - opt-einsum
+  - pandas
+  - pip
+  - pytest
+  - python=3.8
+  - pytorch
+  - pymc3
+  - scikit-learn
+  - scipy
+  - seaborn
+  - sphinx
+  - statsmodels
+  - tensorflow
+  - tqdm
+  - pip:
+    - git+https://github.com/jcmgray/autoray.git
+    - black
+    - dask
+    - hyperopt
+    - jax
+    - jaxlib
+    - jupyterlab_code_formatter==1.4.4
+    - nbsphinx
+    - nbsphinx-link
+    - openpyxl
+    - pathspec
+    - pycodestyle
+    - pytest-cov
+    - pymars
+    - sparse
+    - sphinx_rtd_theme
+    - xlrd
+    - xgboost

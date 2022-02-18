@@ -36,10 +36,10 @@ in the scope of a Swiss National Science Foundation grant.
 This software is free to use and edit. When using this software for academic purposes, please cite the following preprint:
 ```
 @article{
-    title = {Compression of random forests using tensor trains},
+    title = {TTML: Tensor Trains for general supervised machine learning},
     journal = {arXiv:2202.XXXXX},
     author = {Vandereycken, Bart and Voorhaar, Rik},
-    year = {2021}, 
+    year = {2022}, 
 }
 ```
 

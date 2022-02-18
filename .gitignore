@@ -1,0 +1,10 @@
+.vscode
+*/__pycache__
+doc/_build
+datasets/data
+.eggs
+*.egg-info
+*.pkl
+notebooks/figures
+notebooks/logs
+notebooks/param_pickles

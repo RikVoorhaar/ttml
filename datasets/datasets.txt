@@ -1,0 +1,118 @@
+AI4I 2020 Predictive Maintenance Dataset Data Set
+ai4i2020.csv
+https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset
+X
+
+
+Airfoil Self-Noise Data Set
+airfoil_self_noise.dat
+https://archive.ics.uci.edu/ml/datasets/airfoil+self-noise
+X
+
+
+Adult Data Set
+census_income.data
+https://archive.ics.uci.edu/ml/datasets/adult
+X
+
+
+Bank Marketing Data Set
+bank_marketing.csv
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+X
+
+
+Cardiotocography Data Set
+Cardiotocography.xls
+http://archive.ics.uci.edu/ml/datasets/Cardiotocography
+(not univariate)
+
+
+clickstream data for online shopping Data Set
+clickstream_data_eshop.zip
+https://archive.ics.uci.edu/ml/datasets/clickstream+data+for+online+shopping
+(not univariate)
+
+
+Combined Cycle Power Plant Data Set
+combinedCyclePowerPlant.csv
+https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
+X
+
+
+Concrete Compressive Strength Data Set
+Concrete_Data.xls
+https://archive.ics.uci.edu/ml/datasets/concrete+compressive+strength
+X
+
+
+default of credit card clients Data Set
+default of credit card clients.xls
+http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+X
+
+
+Diabetic Retinopathy Debrecen Data Set Data Set
+diabetic_retinopathy_debrecen.arff
+http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set
+X
+
+
+Dry Bean Dataset Data Set
+Dry_Bean_Dataset.xlsx
+http://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset
+(not univariate)
+
+
+Electrical Grid Stability Simulated Data Data Set
+electric_grid_stability.csv
+https://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+
+X
+
+
+Gas Turbine CO and NOx Emission Data Set Data Set
+gas_turbine_emission.zip
+https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set
+X
+
+
+in-vehicle coupon recommendation Data Set
+in-vehicle-coupon-recommendation.csv
+http://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation
+X
+
+
+MiniBooNE particle identification Data Set
+MiniBooNE_PID.txt
+http://archive.ics.uci.edu/ml/datasets/MiniBooNE+particle+identification
+X
+
+
+Online Shoppers Purchasing Intention Dataset Data Set
+online_shoppers_intention.csv
+http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+X
+
+
+Polish companies bankruptcy data Data Set
+polish_bankruptcy.zip
+http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
+X
+
+
+seismic-bumps Data Set
+seismic-bumps.arff
+http://archive.ics.uci.edu/ml/datasets/seismic-bumps
+X
+
+
+Shill Bidding Dataset Data Set
+Shill_Bidding_Dataset.csv
+http://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset
+X
+
+
+Wine Quality Data Set
+winequality-white.csv
+https://archive.ics.uci.edu/ml/datasets/wine+quality
+X
