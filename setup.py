@@ -3,17 +3,6 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-long_description = """
-Tensor train based machine learning estimator.
-
-Uses existing machine learning estimators to initialize a tensor train
-decomposition on a particular feature space discretization. Then trains this
-tensor train further with Riemannian conjugate gradient descent.
-
-This library also implements much functionality related to tensor trains. And
-their Riemannian optimization in general.
-"""
-
 setuptools.setup(
     name="ttml",
     version="1.0",
@@ -30,9 +19,8 @@ setuptools.setup(
         "scikit-learn",
         "scipy",
         "tqdm",
-        "autoray @ git+https://github.com/jcmgray/autoray.git",
+        "autoray",
         "xgboost",
-        "xlrd",
     ],
     setup_requires=["pytest-runner"],
     tests_require=[
