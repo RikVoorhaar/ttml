@@ -1,6 +1,6 @@
 .vscode
 */__pycache__
-doc/_build
+docs/_build
 datasets/data
 .eggs
 *.egg-info
