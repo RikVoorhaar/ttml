@@ -5,6 +5,7 @@ datasets/data
 .eggs
 *.egg-info
 *.pkl
+/build
 notebooks/figures
 notebooks/logs
 notebooks/param_pickles
