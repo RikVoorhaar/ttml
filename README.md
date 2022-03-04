@@ -21,23 +21,26 @@ or by cloning this repository and running the following command in the root dire
     pip install .
 ```
 
-If you want to reproduce the experiments discussed in our paper, then first clone this repository. Then run the script `datasets/download_datasets.py` to download all relevant datasets from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). Then all figures and results can be reproduced by the scripts in the `notebooks` folder. To install all the dependencies for the scripts and tests, you can use the `conda` environment defined in `environment.yml`. 
+If you want to reproduce the experiments discussed in our paper, then first clone this repository. Then run
+the script `datasets/download_datasets.py` to download all relevant datasets from the [UCI Machine Learning
+Repository](https://archive.ics.uci.edu/ml/index.php). Then all figures and results can be reproduced by the
+scripts in the `notebooks` folder. To install all the dependencies for the scripts and tests, you can use the
+`conda` environment defined in `environment.yml`. 
 
 # Documentation
 
 The documentation for this project lives on [ttml.readthedocs.io](https://ttml.readthedocs.io/en/latest/).
 
 # Credits
-All code for this library has been written by [Rik
-Voorhaar](https://www.rikvoorhaar.com/), in a joint project with [Bart
-Vandereycken](https://www.unige.ch/math/vandereycken/). This has been performed
-in the scope of a Swiss National Science Foundation grant.
+All code for this library has been written by [Rik Voorhaar](https://www.rikvoorhaar.com/), in a joint project
+with [Bart Vandereycken](https://www.unige.ch/math/vandereycken/). This work was supported by the Swiss
+National Science Foundation under [research project 192363](https://data.snf.ch/grants/grant/192363).
 
 This software is free to use and edit. When using this software for academic purposes, please cite the following preprint:
 ```
 @article{
     title = {TTML: Tensor Trains for general supervised machine learning},
-    journal = {arXiv:2202.XXXXX},
+    journal = {arXiv:2203.XXXXX},
     author = {Vandereycken, Bart and Voorhaar, Rik},
     year = {2022}, 
 }
