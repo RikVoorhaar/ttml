@@ -10,7 +10,7 @@ except ModuleNotFoundError:
 from autoray import numpy as np
 from numpy import sqrt
 
-from .utils import (
+from ttml.utils import (
     convert_backend_cores,
     random_normal,
     random_isometry,

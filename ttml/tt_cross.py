@@ -87,8 +87,8 @@ import scipy.linalg
 import scipy.linalg.lapack
 from copy import copy
 
-from .tensor_train import TensorTrain
-from .utils import random_idx
+from ttml.tensor_train import TensorTrain
+from ttml.utils import random_idx
 
 
 def _piv_to_ind(piv, n):

@@ -36,7 +36,9 @@ def test_maxvol(shape):
         ]
     )
 
-    assert random_det <= np.abs(maxvol_det)
+    # compare to random determinant. It's possible (but unlikely) this is
+    # slightly better, so multiply by small constant.
+    assert random_det <= np.abs(maxvol_det)*1.2
 
 
 @pytest.mark.parametrize("size", ((20, 9, 8, 2), (5, 5, 5)))

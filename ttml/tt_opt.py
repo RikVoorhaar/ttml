@@ -2,7 +2,7 @@
 
 
 import autoray as ar
-from .utils import merge_sum, convert_backend
+from ttml.utils import merge_sum, convert_backend
 
 
 class TensorTrainOptimizer:

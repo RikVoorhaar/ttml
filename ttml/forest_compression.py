@@ -7,8 +7,8 @@ from scipy.linalg import svd
 from sklearn.tree._classes import BaseDecisionTree
 from sklearn.utils.extmath import randomized_svd
 
-from .tensor_train import TensorTrain
-from .utils import project_sorted, univariate_kmeans
+from ttml.tensor_train import TensorTrain
+from ttml.utils import project_sorted, univariate_kmeans
 
 
 def compress_forest_thresholds(

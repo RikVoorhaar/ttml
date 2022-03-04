@@ -10,7 +10,7 @@ from scipy.optimize.linesearch import (
     scalar_search_wolfe2,
 )
 
-from .tt_opt import TensorTrainOptimizer
+from ttml.tt_opt import TensorTrainOptimizer
 
 
 class TensorTrainLineSearch(TensorTrainOptimizer):

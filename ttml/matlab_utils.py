@@ -4,8 +4,8 @@ import tempfile
 import numpy as np
 from scipy.io import loadmat, savemat
 
-from .tensor_train import TensorTrain, TensorTrainTangentVector
-from .utils import convert_backend_cores
+from ttml.tensor_train import TensorTrain, TensorTrainTangentVector
+from ttml.utils import convert_backend_cores
 
 
 def fix_shape(cores):

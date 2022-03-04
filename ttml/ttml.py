@@ -102,11 +102,11 @@ from sklearn.utils.validation import check_is_fitted
 from sklearn.exceptions import NotFittedError
 
 
-from .tensor_train import TensorTrain
-from .tt_rlinesearch import TTLS, TensorTrainLineSearch
-from .forest_compression import compress_forest_thresholds
-from .tt_cross import estimator_to_tt_cross
-from .utils import convert_backend, predict_logit
+from ttml.tensor_train import TensorTrain
+from ttml.tt_rlinesearch import TTLS, TensorTrainLineSearch
+from ttml.forest_compression import compress_forest_thresholds
+from ttml.tt_cross import estimator_to_tt_cross
+from ttml.utils import convert_backend, predict_logit
 
 _fit_parameters_string = """
 

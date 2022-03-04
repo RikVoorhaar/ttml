@@ -7,8 +7,8 @@ Optimization Methods' by Becigneul and Ganea"""
 import autoray as ar
 import numpy as np
 
-from .tt_opt import TensorTrainOptimizer
-from .utils import merge_sum, convert_backend
+from ttml.tt_opt import TensorTrainOptimizer
+from ttml.utils import merge_sum, convert_backend
 
 
 class TensorTrainSGD(TensorTrainOptimizer):
